@@ -2,7 +2,6 @@
 #define GUARD_LocationClass_h
 #include<Rcpp.h>
 
-//' @export Location
 class Location{
 public:
   Location();

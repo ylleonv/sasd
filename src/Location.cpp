@@ -15,7 +15,7 @@ RCPP_MODULE(mimod){
   using namespace Rcpp ;
   class_<Location>("Location")
     // expose the default constructor
-    .constructor("documentation for default constructor")
+    .constructor()
     .constructor<int,int>("documentation for constructor")
     .field( "x", &Location::x, "documentation for x")
     .field( "y", &Location::y, "documentation for y")
