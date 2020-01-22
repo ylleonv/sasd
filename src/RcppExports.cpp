@@ -16,12 +16,14 @@ BEGIN_RCPP
 END_RCPP
 }
 
+RcppExport SEXP _rcpp_module_boot_mimod();
 RcppExport SEXP _rcpp_module_boot_NumEx();
 RcppExport SEXP _rcpp_module_boot_yada();
 RcppExport SEXP _rcpp_module_boot_stdVector();
 
 static const R_CallMethodDef CallEntries[] = {
     {"_anRpackage_rcpp_hello_world", (DL_FUNC) &_anRpackage_rcpp_hello_world, 0},
+    {"_rcpp_module_boot_mimod", (DL_FUNC) &_rcpp_module_boot_mimod, 0},
     {"_rcpp_module_boot_NumEx", (DL_FUNC) &_rcpp_module_boot_NumEx, 0},
     {"_rcpp_module_boot_yada", (DL_FUNC) &_rcpp_module_boot_yada, 0},
     {"_rcpp_module_boot_stdVector", (DL_FUNC) &_rcpp_module_boot_stdVector, 0},
