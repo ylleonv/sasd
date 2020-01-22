@@ -1,5 +1,13 @@
-#include "Location.h"
 #include<Rcpp.h>
+
+class Location{
+public:
+  Location();
+  Location(int, int);
+  int x;
+  int y;
+  void print();
+};
 
 //constructors
 Location::Location() : x(0), y(0) { }
@@ -22,4 +30,3 @@ RCPP_MODULE(mimod){
     .method( "print", &Location::print, "documentation for print")
     ;
 }
-
