@@ -11,14 +11,3 @@ void Location::print(){
   Rcpp::Rcout << "y = " << y << std::endl;
 }
 
-RCPP_MODULE(mimod){
-  using namespace Rcpp ;
-  class_<Location>("Location")
-    // expose the default constructor
-    .constructor()
-    .constructor<int,int>("documentation for constructor")
-    .field( "x", &Location::x, "documentation for x")
-    .field( "y", &Location::y, "documentation for y")
-    .method( "print", &Location::print, "documentation for print")
-    ;
-}
