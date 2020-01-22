@@ -1,5 +1,6 @@
 \name{Rcpp Modules Examples}
 \alias{Num}
+\alias{Location}
 \alias{World}
 \alias{bar}
 \alias{bla}
@@ -11,6 +12,7 @@
 \alias{Rcpp_Num-class}
 \alias{Rcpp_World-class}
 \alias{Rcpp_vec-class}
+\alias{Rcpp_Location-class}
 \alias{C++Object-class}
 \title{
   Functions and Objects created by Rcpp Modules Example
