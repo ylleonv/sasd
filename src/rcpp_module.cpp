@@ -47,7 +47,7 @@ void bla2( int x, double y) {
 
 class World {
 public:
-    World() : msg("hello") {}
+    World() : msg("hello lorenita linda") {}
     void set(std::string msg) { this->msg = msg; }
     std::string greet() { return msg; }
 
