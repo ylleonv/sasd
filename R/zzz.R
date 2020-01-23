@@ -17,5 +17,6 @@ loadModule("BASEMODULE", TRUE)
 loadModule("DERIVEDMODULE", TRUE)
 loadModule("exportmod", TRUE)
 loadModule("exportmoddev", TRUE)
+loadModule("fishder", TRUE)
 
 

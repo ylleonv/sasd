@@ -23,6 +23,7 @@ RcppExport SEXP _rcpp_module_boot_NumEx();
 RcppExport SEXP _rcpp_module_boot_DERIVEDMODULE();
 RcppExport SEXP _rcpp_module_boot_exportmod();
 RcppExport SEXP _rcpp_module_boot_exportmoddev();
+RcppExport SEXP _rcpp_module_boot_fishder();
 RcppExport SEXP _rcpp_module_boot_BASEMODULE();
 RcppExport SEXP _rcpp_module_boot_yada();
 RcppExport SEXP _rcpp_module_boot_stdVector();
@@ -34,6 +35,7 @@ static const R_CallMethodDef CallEntries[] = {
     {"_rcpp_module_boot_DERIVEDMODULE", (DL_FUNC) &_rcpp_module_boot_DERIVEDMODULE, 0},
     {"_rcpp_module_boot_exportmod", (DL_FUNC) &_rcpp_module_boot_exportmod, 0},
     {"_rcpp_module_boot_exportmoddev", (DL_FUNC) &_rcpp_module_boot_exportmoddev, 0},
+    {"_rcpp_module_boot_fishder", (DL_FUNC) &_rcpp_module_boot_fishder, 0},
     {"_rcpp_module_boot_BASEMODULE", (DL_FUNC) &_rcpp_module_boot_BASEMODULE, 0},
     {"_rcpp_module_boot_yada", (DL_FUNC) &_rcpp_module_boot_yada, 0},
     {"_rcpp_module_boot_stdVector", (DL_FUNC) &_rcpp_module_boot_stdVector, 0},
