@@ -1,13 +1,5 @@
 #include<Rcpp.h>
-
-class Location{
-public:
-  Location();
-  Location(int, int);
-  int x;
-  int y;
-  void print();
-};
+#include "Location.h"
 
 //constructors
 Location::Location() : x(0), y(0) { }
