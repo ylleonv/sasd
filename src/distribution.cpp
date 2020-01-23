@@ -11,8 +11,8 @@
 #include <boost/math/distributions/students_t.hpp>
 using namespace boost::math;
 using namespace std;
-#include <eigen3/Eigen/Dense>
-#include <eigen3/Eigen/Core>
+// #include <eigen3/Eigen/Dense>
+// #include <eigen3/Eigen/Core>
 #include <RcppArmadillo.h>
 #include <RcppEigen.h>
 

@@ -112,7 +112,7 @@ arma::mat FisherScoring::GLMm(arma::mat X_M, arma::mat Y_M, std::string link){
   Rcout << "Number of iterations" << endl;
   Rcout << n_iter << endl;
 
-  Rcout << "Deviance" << endl;
+  Rcout << "Mictecazihuatl :*" << endl;
   Rcout << Deviance << endl;
 
   return beta;
