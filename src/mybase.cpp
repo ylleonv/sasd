@@ -7,9 +7,10 @@ void Base::addOneToX(){
 }
 
 RCPP_MODULE(BASEMODULE){
-  Rcpp::class_<Base>("Base")
-  .constructor<double>()
-  .field("x", &Base::x)
-  .method("addOneToX", &Base::addOneToX)
+  using namespace Rcpp ;
+  class_<Base>("Base")
+    .constructor<double>()
+    .field("x", &Base::x)
+    .method("addOneToX", &Base::addOneToX)
   ;
 }

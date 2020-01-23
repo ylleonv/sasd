@@ -1,6 +1,7 @@
+#ifndef MYBASE_h
+#define MYBASE_h
+
 #include <Rcpp.h>
-// example from:
-// http://stackoverflow.com/questions/24317910/rcpp-module-for-inheritance-class
 
 class Base {
 public:
@@ -8,3 +9,5 @@ public:
   double x;
   void addOneToX();
 } ;
+
+#endif

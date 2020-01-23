@@ -1,5 +1,5 @@
-#ifndef GUARD_LocationClass_h
-#define GUARD_LocationClass_h
+#ifndef LocationClass_h
+#define LocationClass_h
 #include<Rcpp.h>
 
 class Location{
