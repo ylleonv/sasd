@@ -13,6 +13,8 @@ loadModule("NumEx", TRUE)
 loadModule("yada", TRUE)
 loadModule("stdVector", TRUE)
 loadModule("mimod", TRUE)
+loadModule("BASEMODULE", TRUE)
+loadModule("DERIVEDMODULE", TRUE)
 # loadModule("exportmod", TRUE)
 
 
