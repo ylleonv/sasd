@@ -3,8 +3,8 @@
 #include "reference.h"
 using namespace std;
 using namespace Rcpp ;
-#include <eigen3/Eigen/Dense>
-#include <eigen3/Eigen/Core>
+// #include <eigen3/Eigen/Dense>
+// #include <eigen3/Eigen/Core>
 #include <RcppArmadillo.h>
 #include <RcppEigen.h>
 #include <boost/math/distributions/logistic.hpp>
