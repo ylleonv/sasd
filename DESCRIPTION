@@ -14,7 +14,6 @@ Imports:
     BH,
     forcats,
     RcppEigen,
-    BH,
     RcppArmadillo
 LinkingTo: 
     Rcpp,
