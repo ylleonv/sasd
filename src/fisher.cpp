@@ -3,8 +3,12 @@
 #include "fisher.h"
 using namespace std;
 using namespace Rcpp ;
+<<<<<<< HEAD
 // #include <eigen3/Eigen/Dense>
 // #include <eigen3/Eigen/Core>
+=======
+
+>>>>>>> e01b58efaeda64a8a109dd52299dbb11c9a49dce
 #include <RcppArmadillo.h>
 #include <RcppEigen.h>
 
