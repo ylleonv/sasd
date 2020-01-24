@@ -1,0 +1,314 @@
+[
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/Location.cpp",
+        "file_last_write" : 1579778634.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/Location.h",
+        "file_last_write" : 1579782075.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/Num.cpp",
+                "kind" : 2,
+                "line" : 24,
+                "name" : "Num",
+                "parent_name" : "",
+                "usr" : "c:@S@Num"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/Num.cpp",
+                "kind" : 7,
+                "line" : 28,
+                "name" : "getX",
+                "parent_name" : "Num",
+                "usr" : "c:@S@Num@F@getX#"
+            },
+            {
+                "column" : 10,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/Num.cpp",
+                "kind" : 7,
+                "line" : 29,
+                "name" : "setX(double)",
+                "parent_name" : "Num",
+                "usr" : "c:@S@Num@F@setX#d#"
+            },
+            {
+                "column" : 9,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/Num.cpp",
+                "kind" : 7,
+                "line" : 31,
+                "name" : "getY",
+                "parent_name" : "Num",
+                "usr" : "c:@S@Num@F@getY#"
+            }
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/Num.cpp",
+        "file_last_write" : 1579714270.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/derived.cpp",
+        "file_last_write" : 1579789767.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/derived.h",
+        "file_last_write" : 1579789767.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/distribution.cpp",
+        "file_last_write" : 1579792985.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/distribution.h",
+        "file_last_write" : 1579793677.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/fisher.cpp",
+        "file_last_write" : 1579791286.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/fisher.h",
+        "file_last_write" : 1579540369.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/mybase.cpp",
+        "file_last_write" : 1579782367.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/mybase.h",
+        "file_last_write" : 1579782367.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_hello_world.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "rcpp_hello_world",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpp_hello_world#"
+            }
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_hello_world.cpp",
+        "file_last_write" : 1579714270.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 13,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 6,
+                "line" : 24,
+                "name" : "hello",
+                "parent_name" : "",
+                "usr" : "c:@F@hello#"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 6,
+                "line" : 28,
+                "name" : "bar(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@bar#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 6,
+                "line" : 32,
+                "name" : "foo(int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@foo#I#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 6,
+                "line" : 36,
+                "name" : "bla",
+                "parent_name" : "",
+                "usr" : "c:@F@bla#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 6,
+                "line" : 40,
+                "name" : "bla1(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@bla1#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 6,
+                "line" : 44,
+                "name" : "bla2(int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@bla2#I#d#"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 2,
+                "line" : 48,
+                "name" : "World",
+                "parent_name" : "",
+                "usr" : "c:@S@World"
+            },
+            {
+                "column" : 10,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 7,
+                "line" : 51,
+                "name" : "set(std::string)",
+                "parent_name" : "World",
+                "usr" : "c:@S@World@F@set#$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#"
+            },
+            {
+                "column" : 17,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+                "kind" : 7,
+                "line" : 52,
+                "name" : "greet",
+                "parent_name" : "World",
+                "usr" : "c:@S@World@F@greet#"
+            }
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/rcpp_module.cpp",
+        "file_last_write" : 1579773792.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/reference.cpp",
+        "file_last_write" : 1579791286.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/reference.h",
+        "file_last_write" : 1578935313.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 29,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 8,
+                "line" : 25,
+                "name" : "vec",
+                "parent_name" : "",
+                "usr" : "c:stdVector.cpp@T@vec"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 28,
+                "name" : "vec_assign(vec *, Rcpp::NumericVector)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_assign#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 32,
+                "name" : "vec_insert(vec *, int, Rcpp::NumericVector)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_insert#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#I#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 21,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 37,
+                "name" : "vec_asR(vec *)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_asR#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 41,
+                "name" : "vec_set(vec *, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_set#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#I#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 45,
+                "name" : "vec_resize(vec *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_resize#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 46,
+                "name" : "vec_push_back(vec *, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_push_back#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 50,
+                "name" : "vec_back(vec *)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_back#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "vec_front(vec *)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_front#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+                "kind" : 6,
+                "line" : 52,
+                "name" : "vec_at(vec *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec_at#*$@N@std@S@vector>#d#$@N@std@S@allocator>#d#I#"
+            }
+        ],
+        "file" : "/home/leonvelasco/Desktop/sasd/src/stdVector.cpp",
+        "file_last_write" : 1579714270.000000
+    }
+]

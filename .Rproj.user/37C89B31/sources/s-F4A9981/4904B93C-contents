@@ -1,0 +1,59 @@
+library(devtools);library(tidyverse);library(fs);library(Rcpp);library(RcppArmadillo);library(RcppEigen)
+library(dplyr); library(tidyr); library(nnet); library(varhandle);library(catdata); library(magic)
+library(VGAM);library(dobson); library(RcppAnnoy); library(roxygen2)
+
+# Rcpp.package.skeleton(module = TRUE)
+# use_package("forcats")
+# use_package("RcppArmadillo",type = "LinkingTo")
+# use_package("RcppEigen",type = "LinkingTo")
+# # Problema de rcpparmadillo not include solo se cambia el orden como sigue:
+# # LinkingTo:
+# # Rcpp,
+# # RcppArmadillo,
+# # RcppEigen
+# use_package("RcppEigen",type = "Imports")
+# use_package("RcppArmadillo",type = "Imports")
+load_all()
+getLoadedDLLs()
+pkgbuild::compile_dll()
+compileAttributes()
+Rcpp::compileAttributes()
+devtools::document()
+devtools::check_win_release(email = "ylleonv@unal.edu.co")
+
+devtools::use_package("curl", type = "Suggests")
+install.packages("devtools")
+
+# usethis::use_rcpp_armadillo()
+# usethis::use_rcpp_eigen()
+
+require(sasd)
+bar(2L)
+hello
+
+ReferenceF
+
+
+a1 = new(World)
+a1$greet()
+
+a3 = new(Location)
+a3$print()
+
+a3 = new(Derived)
+a3
+
+Base
+
+Derived
+new()
+
+mimod <- Module( "mimod" )
+prompt( mimod, "mimod-module.Rd" )
+
+install_github("ylleonv/pack")
+require(pack)
+pack::distribution
+
+ReferenceF
+dist1 <- new(ReferenceF)

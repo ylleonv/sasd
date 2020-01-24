@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579790238188.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3044682887",
+    "id" : "A83AC4DA",
+    "lastKnownWriteTime" : 1579540369,
+    "last_content_update" : 1579540369,
+    "path" : "~/Desktop/sasd/src/fisher.h",
+    "project_path" : "src/fisher.h",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "h"
+}
